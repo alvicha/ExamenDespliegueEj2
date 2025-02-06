@@ -11,7 +11,7 @@ services:
       - "3306:3306"
 
   php:
-    image: alvicha/phpPinacoteca:v1
+    image: alvicha/php_pinacoteca:v1
     container_name: contenedorMiApp
     ports:
       - "8080:80"

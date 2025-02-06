@@ -72,7 +72,7 @@ $result = $conn->query($sql);
         <thead>
             <tr>
                 <th>ID</th>
-                <th>Nombre</th>
+                <th>Nombres</th>
                 <th>Autor</th>
                 <th>Año</th>
                 <th>Periodo</th>
